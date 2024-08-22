@@ -1,0 +1,29 @@
+.cuerpo {
+    background-color: darkgray;
+    padding: 5px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.total {
+    padding: 10px;
+    width: 670px;
+    font-size: 20px;
+    color: blue;
+}
+
+.boton {
+    width: 168px;
+    height: 165px;
+    font-size: 40px;
+}
+
+.rojo {
+    background-color: red;
+    color: white
+}
+
+.verde {
+    background-color: green;
+    color: white
+}
