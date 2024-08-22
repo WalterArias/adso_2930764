@@ -15,7 +15,12 @@ console.log(respuesta) */
 
 // trimear : quitar espacios en blanco al inicio y al final
 
-let datoSinTrimear = "   hola   "
+/* let datoSinTrimear = "   hola   "
 console.log(datoSinTrimear)
 let datoOk = datoSinTrimear.trim()
 console.log(datoOk)
+ */
+
+
+let edad = 18
+let respuesta = edad <= 18 ? console.log("eres mayor de edad !") : console.log("eres un niño !!")
